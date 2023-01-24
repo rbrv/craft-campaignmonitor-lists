@@ -1,3 +1,8 @@
+## 2.0.0 - 2023-01-24
+
+* Make compatible with Craft 4.0
+* Make compatible php 8.0
+
 ## 1.1.12 - 2021-06-17
 
 * Merged in better CM spam response logging

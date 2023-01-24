@@ -25,7 +25,7 @@ use yii\base\Event;
  */
 class CmLists extends Plugin
 {
-    public $hasCpSection = true;
+    public bool $hasCpSection = true;
     public static $plugin;
 
     // Public Methods
