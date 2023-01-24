@@ -1,3 +1,7 @@
+## 2.0.1 - 2023-01-24
+
+* Start using craft-campaignmonitor-service since version 2.0.0
+
 ## 2.0.0 - 2023-01-24
 
 * Make compatible with Craft 4.0
